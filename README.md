@@ -10,3 +10,6 @@ export ONEBOX_IPYNB_RENDERER_SECRET="<your-secret>"
 export ONEBOX_IPYNB_RENDERER_HOSTNAME="<your-hostname-for-aux-service>"
 ```
 
+Demo:
+
+![demo](https://raw.githubusercontent.com/skbly7/discourse-ipynb-onebox/master/demo.jpg)
